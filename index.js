@@ -4,4 +4,4 @@ function shout(string) {
 
 function logShout(string) {
   console.log(logShout(string).toUpperCase())
-  }
+}
