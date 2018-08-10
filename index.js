@@ -3,7 +3,7 @@ function shout(string) {
 }
 
 function logShout(string) {
-  let x = string.toUpperCase;
+  let x = string.toUpperCase();
   console.log(x);
 }
 
