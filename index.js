@@ -8,8 +8,8 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  let x = string.toLowerCase();
-  console.log(x);
+  let y = string.toLowerCase();
+  console.log(y);
 }
 
 function sayHiToGrandma(string) {
